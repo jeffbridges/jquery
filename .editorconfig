@@ -16,7 +16,7 @@ indent_style = tab
 
 [speed/**.css]
 indent_style = tab
-
+; Some test
 [speed/benchmarker.js]
 indent_style = space
 indent_size = 2
